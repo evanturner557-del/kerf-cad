@@ -4377,12 +4377,7 @@ Right-click to edit`,onClick:()=>XP(e,t.gcode)});a.addEventListener(`contextmenu
       </div>
 
       <div class="kerf-monetize" id="kerf-vault-box">
-        <div class="kerf-vault">
-          <div style="font-family:'IBM Plex Mono',monospace;font-size:0.7rem;text-transform:uppercase;letter-spacing:0.08em;color:#E85D04;margin-bottom:6px;">Optional Paid Upgrade · Commercial Licence</div>
-          <h3>Pro Maker Template Vault — £19</h3>
-          <p>Skip blank canvases. Get 50+ print-tested, commercial-use .STL, .SVG, and editable .DABBLE templates (Gridfinity trays, Etsy keychains, laser gift boxes, Raspberry Pi mounts, workshop brackets) ready to customize in Kerf.</p>
-          <a class="kerf-btn kerf-btn-primary" href="mailto:localreply@agentmail.to?subject=Kerf%20Pro%20Maker%20Vault%20(%C2%A319)%20Order&body=Hi%2C%20I%27d%20like%20to%20order%20the%20Kerf%20Pro%20Maker%20Vault%20(%C2%A319).%20Please%20send%20the%20Stripe%20checkout%20link.">Get Pro Maker Vault (£19) →</a>
-        </div>
+        
         <div class="kerf-gear">
           <div style="font-family:'IBM Plex Mono',monospace;font-size:0.7rem;text-transform:uppercase;letter-spacing:0.08em;color:#5A5E5B;">Recommended Maker Gear (Affiliate / Partner Links)</div>
           <a class="kerf-gear-link" href="https://bambulab.com/" target="_blank" rel="noopener sponsored"><span><strong>Bambu Lab A1 Mini</strong> — Fast beginner 3D printer</span><span>↗</span></a>
