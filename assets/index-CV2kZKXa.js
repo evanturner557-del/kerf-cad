@@ -4321,7 +4321,6 @@ Right-click to edit`,onClick:()=>XP(e,t.gcode)});a.addEventListener(`contextmenu
           <p class="kerf-sub">Combine solid shapes, cut holes, generate laser finger-joint boxes and depth maps, and export manifold-checked STL, OBJ, 3MF, or kerf-compensated SVG—100% locally in your browser.</p>
           <div class="kerf-cta-row">
             <button class="kerf-btn kerf-btn-primary" id="kerfEnterMain" type="button">Open Studio — Free &amp; Offline →</button>
-            <a class="kerf-btn kerf-btn-outline" href="#kerf-vault-box">Pro Maker Vault (£19)</a>
           </div>
           <div style="margin-top:16px;font-family:'IBM Plex Mono',monospace;font-size:0.75rem;color:#5A5E5B;">
             ✓ Runs 100% in-browser &nbsp;·&nbsp; ✓ Works with Wi-Fi off &nbsp;·&nbsp; ✓ 0 bytes uploaded
